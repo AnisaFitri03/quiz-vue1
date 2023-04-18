@@ -27,9 +27,7 @@
      <div class="container-two">
         <div class="about-me">
          <h2>My Biodata</h2>
-         <p></p>
-         <p></p>
-         <p></p>
+         
            <p> Nama             : Anisa Fitri</p>
            <p> Jenis Kelamin    : Perempuan</p> 
            <p> Agama            : Islam</p>
@@ -41,9 +39,7 @@
            <p> "Pembelajaran tidak dapat dengan kebetulan, ia harus dicari dengan semangat dan dijalani dengan tekun" </p>
            <p> "Jangan malu dengan kegagalan, belajarlah darinya dan mulai lagi"</p>
            <p> "Sukses adalah sebuah perjalanan, bukan sebuah tujuan. Usaha sering lebih penting daripada hasilnya"</p>
-           <p>''</p>
-           <p>''</p>
-           <p>''</p>
+
         </div>
           
        <div class="tecnology-section">

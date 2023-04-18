@@ -4,7 +4,7 @@
     <div class="banner-image w-100 vh-100 d-flex justify-content-center align-items-center">
       <div  class="images">
         <div class="profile">
-        <img src="../assets/anisa fitri.jpg" class=""
+        <img src="../assets/anisafitri.jpg" class=""
              height="300px" width="400px">
       </div>
       <div class="content text-center">
